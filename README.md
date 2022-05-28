@@ -10,14 +10,14 @@ The two python files perform the following tasks:
 
 #### Lane Detection: 
 <p align="center">
-  <img src = "Images/lanes.PNG" width = "700">
+  <img src = "Images/lanes.PNG" width = "600">
 </p>
 
 <br/><br/>
 
 #### Turn Prediction:
 <p align="center">
-  <img src = "Images/Lanes2.PNG" width = "700">
+  <img src = "Images/Lanes2.PNG" width = "600">
 </p>
 
 <br/><br/>
