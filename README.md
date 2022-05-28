@@ -5,6 +5,8 @@ The goal of the project is to build a lane detection pipeline for a ground vehic
 The two python files perform the following tasks:
 - Problem2.py - detect and distinguish dashed lanes from solid lanes
 - Problem3.py - predict curvature of the road in front
+ 
+[Q2_StraightLine.mp4](https://github.com/jaisharma10/Lane-Detection/blob/main/Q2_StraightLine.mp4) and [Q3_PredictTurn.mp4](https://github.com/jaisharma10/Lane-Detection/blob/main/Q3_PredictTurn.mp4) are the original videos that we work on. Ensure that the two media files are in the same folder as the python scripts are in.
 
 ## Perception Algorithm Pipeline
 
@@ -26,6 +28,9 @@ The two python files perform the following tasks:
 7. Implement an algorithm to calculate radius of curvature.
 8. Unwarp the image and display curvature radius and predicted direction on playing video.
 
+
+A more detailed explanation of my work is written in the following [report](https://github.com/jaisharma10/Lane-Detection/blob/main/Project_2_Report.pdf).
+
 ## Results
 
 
@@ -42,7 +47,7 @@ The two python files perform the following tasks:
 </p>
 
 <br/><br/>
-The final video output for the two python files can be found on this link --> https://drive.google.com/drive/folders/1T96PgZn_4gbJAW50hzEo7YZnGQKx-IC9?usp=sharing
+The final video output for the two python files can be found on this Google Drive [link](https://drive.google.com/drive/folders/1T96PgZn_4gbJAW50hzEo7YZnGQKx-IC9?usp=sharing)
 
 ## Support
 For any questions, email me at jaisharm@umd.edu
